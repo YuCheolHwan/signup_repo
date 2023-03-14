@@ -29,7 +29,6 @@ public class SignUpMain {
 			selectNo = Integer.parseInt(sc.nextLine());
 			switch (selectNo) {
 			case SIGNUP:
-				// char(10)으로 id 범위를 정해놨는데 글자 수를 넘겨도 완료는 되고 데이터베이스에 저장은 안됨
 				System.out.println("회원가입 시스템을 실행합니다.");
 				SignUp su = new SignUp();
 				su = inputData();
@@ -250,7 +249,6 @@ public class SignUpMain {
 			case "월":
 				while (run2) {
 					try {
-						// 다른 오류들은 잡아봤지만 0000 << 이런식으로 12보다 작은 0이 반복되는건 어떻게 잡는지 아직 모르겠음.
 						System.out.print("출생 월을 적어주십시오 >>");
 						month = Integer.parseInt(sc.nextLine());
 						Pattern pattern = Pattern.compile("^[0-9]{1,2}$");
