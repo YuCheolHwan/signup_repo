@@ -16,7 +16,7 @@
 | Github | https://github.com/YuCheolHwan/signup_repo.git |
 
 ## 개발 기간
-2023-03-03(Fri) ~ 2023-03-05(Son)
+2023-03-03(Fri) ~ 2023-03-03(Fri)
 
 ### 프로젝트 설명
 1. 회원가입
