@@ -13,7 +13,7 @@
 | Language | Java 17.0.6 |
 | Editor | Eclipse IDE 2022-06 (4.24.0) |
 | DBMS | MySQL Workbench 8.0.17 |
-| Github | https://github.com/YuCheolHwan/signup_repo.git |
+| Github | https://github.com/YuCheolHwan/signup_repo |
 
 ## 개발 기간
 2023-03-03(Fri) ~ 2023-03-04(Sat)
